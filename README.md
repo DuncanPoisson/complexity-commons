@@ -1,6 +1,6 @@
 # Complexity Commons
 
-An open teaching repository of materials for teaching complex systems — videos, notebooks, interactive simulations, courses, papers, and more, contributed and annotated by the people who teach with them. A prototype project of the [Santa Fe Institute](https://www.santafe.edu/)'s [Complexity Explorer](https://www.complexityexplorer.org/).
+An open teaching repository of materials for teaching complex systems — videos, notebooks, interactive simulations, courses, papers, and more, contributed and annotated by the people who teach with them.
 
 Materials are linked, not hosted — rights remain with their creators.
 
