@@ -48,7 +48,7 @@ src/
    VITE_SUPABASE_PUBLISHABLE_KEY=sb_publishable_xxxxxxxx
    ```
 
-   (`.env.local` is gitignored — never commit real credentials.)
+   (`.env.local` is gitignored — never commit real credentials. I will place this on a 1Password.)
 
 3. Run the dev server:
 
